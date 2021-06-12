@@ -1,0 +1,25 @@
+{
+  "name": "neogcamp-talkbanana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavkumar-in/neogCamp-talkBanana.git"
+  },
+  "keywords": [
+    "neogCamp",
+    "lessonFour",
+    "neogcamp",
+    "levelzero"
+  ],
+  "author": "Keshav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshavkumar-in/neogCamp-talkBanana/issues"
+  },
+  "homepage": "https://github.com/keshavkumar-in/neogCamp-talkBanana#readme"
+}
