@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+:root {
+  --primary-color: #f7971e;
+  --dark-gray: #3c3b3f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Satisfy", cursive;
+}
+
+.bg-gradient {
+  background: -webkit-linear-gradient(to left, #f7971e, #ffd200);
+  background: linear-gradient(to left, #f7971e, #ffd200);
+}
+
+header,
+footer {
+  width: 100%;
+  text-align: center;
+  padding: 1rem;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+}
+h1 {
+  text-shadow: 8px 5px 8px white;
+  color: var(--dark-gray);
+  padding: 1rem;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem 1.5rem;
+}
+
+textarea {
+  width: 100%;
+  min-height: 20vh;
+  padding: 1rem;
+  font-size: large;
+}
+button {
+  margin: 1rem 0rem;
+  padding: 1rem 2rem;
+  font-size: larger;
+  border: 2px outset var(--primary-color);
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  color: var(--dark-gray);
+  cursor: pointer;
+}
+button:hover {
+  background: linear-gradient(to right, #f7971e, #ffd200);
+}
+#txtOutput {
+  width: 100%;
+  min-height: 10vh;
+  max-height: 20vh;
+  overflow: scroll;
+  border: 1px solid var(--dark-gray);
+}
+footer p {
+  max-width: 600px;
+  margin: auto;
+}
