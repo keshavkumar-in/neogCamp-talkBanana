@@ -1,6 +1,6 @@
 # neogCamp-talkBanana
 
-This repository contains neogCamp talkBanana app, which uses FunTranslation's Minion API to translate given input to fun minion language.
+This repository contains neogCamp talkBanana app, which uses FunTranslation's Minion API to translate given input to fun minion language. This is lesson four 1st assignment.
 
 > [Check Demo Here](https://talkbanana-app.netlify.app/)
 
